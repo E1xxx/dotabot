@@ -10,7 +10,7 @@ from aiogram.utils.keyboard import InlineKeyboardBuilder
 import requests
 from pprint import pprint
 
-TOKEN = '7676339418:AAFVRgzwY264w8OtcA5p6zpyWhy1IMd-gGo'
+TOKEN = ''
 
 logging.basicConfig(level=logging.INFO)
 bot = Bot(TOKEN)
